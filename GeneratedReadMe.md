@@ -1,11 +1,14 @@
 
+
     
-# testing
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-## Description
-testing
-***
-## Table of Contents
+    # Readme-Generator
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
+    ## Description
+    A node.js app that generates a readme when prompted
+    ***
+
+    # Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
@@ -13,17 +16,32 @@ testing
 * [Tests](#tests)
 * [Questions](#questions)
 ***
+
+
 ## Installation
-testing
+install node dependencies 
+
+
+
 ## Usage
-testing
+watch walkthrough video that demonstrates how to use the application
+
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributing
-If you would like to contribute to this project, please [add me on GitHub](https://github.com/testing).
+If you would like to contribute to this project, please [add me on GitHub](https://github.com/hibo-ali).
+
+
 ## Tests
-testing
+none
+
+
 ## Questions
-Please reach out to testing at test.
-    
+Please reach out to Hibo Ali at hibo-ali@gmail.com.
+
+
+
+
+        
     
