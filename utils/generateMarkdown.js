@@ -4,7 +4,12 @@ function docuGenerator (userInput) {
     return `
 
     
-
+    # ${userInput.Title}
+    ${licenseBadges(userInput)}
+    
+    ## Description
+    ${userInput.Description}
+    ***
 
 
 
