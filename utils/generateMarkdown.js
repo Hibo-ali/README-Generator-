@@ -36,7 +36,12 @@ ${licenseBadges(userInput)}
 If you would like to contribute to this project, please [add me on GitHub](https://github.com/${userInput.Contributing}).
 
 
+## Tests
+${userInput.Tests}
 
+
+## Questions
+Please reach out to ${userInput.Author} at ${userInput.Questions}.
 
 
 
